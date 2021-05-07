@@ -3,7 +3,7 @@ class ground{
         var options = {
             
             isStatic:true,
-            resistance: 0.5
+            restitution: 0.5
            
             
         }
