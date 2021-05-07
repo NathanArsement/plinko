@@ -2,7 +2,8 @@ class ground{
     constructor(x, y, width, angle) {
         var options = {
             
-            isStatic:true
+            isStatic:true,
+            resistance: 0.5
            
             
         }
