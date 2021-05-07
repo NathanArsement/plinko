@@ -20,7 +20,7 @@ class ball{
         rotate(angle);
         ellipseMode(CENTER);
        
-        fill("white");
+        fill(rand(0,255),rand(0,255),rand(0,255));
         ellipse(0,0,10, 10);
         pop();
       }
